@@ -1,0 +1,23 @@
+{
+  "name": "user-interface",
+  "version": "1.0.0",
+  "description": "Lambda UI Day 2 Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamConnatser/User-Interface.git"
+  },
+  "author": "William Connatser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamConnatser/User-Interface/issues"
+  },
+  "homepage": "https://github.com/WilliamConnatser/User-Interface#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
